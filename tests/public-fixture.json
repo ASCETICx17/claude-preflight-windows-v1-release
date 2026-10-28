@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "proxyUrl": "http://127.0.0.1:12345",
+  "requiredCountry": "US",
+  "expectedEgressIP": "203.0.113.10",
+  "proxyRoot": "C:\\Mock\\v2rayN",
+  "existingTunName": "singbox_tun",
+  "expectedTimeZone": "Taipei Standard Time",
+  "expectedCulture": "zh-TW",
+  "ownerSid": ""
+}

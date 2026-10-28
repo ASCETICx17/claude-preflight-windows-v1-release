@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "proxyUrl": "http://127.0.0.1:",
+  "requiredCountry": "US",
+  "expectedEgressIP": "",
+  "proxyRoot": "",
+  "existingTunName": "singbox_tun",
+  "expectedTimeZone": "",
+  "expectedCulture": "",
+  "ownerSid": "",
+  "allowedDnsResolverIPs": []
+}
