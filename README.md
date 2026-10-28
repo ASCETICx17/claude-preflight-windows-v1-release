@@ -51,8 +51,11 @@ Claude Preflight 为 Claude Windows 桌面端提供图形化的启动前检查�
 ## 为什么做Claude PC端工具
 
 1.因为cc相关同类开源项目已经有成熟解决方案
+
 2.Claude PC端对于codex转Claude用户比较友好
+
 3.本项目提供轻量化、图形化操作界面，简单易上手
+
 4.Claude PC端触发风控概率较低，且已经内置Claude code，新账号初期直接使用cli属于较高风险的使用方式，先使用桌面端等账号形成正常使用记录后有需要可以再换到cli
 
 
